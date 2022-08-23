@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "aeb1d075eeb3a10c",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6cde308777e4c10",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "General/CG-Fundimentals/Lessons/Applied Mathematics.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "047ba273aaeb3bf8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Scratchpad.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "683fafc12534a4e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "773f87579eee0ee4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e628917be794e665",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "be3cb544d17cd4a7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f61f6cfafbb50e70",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "e74d0ccd471f1600",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 295.5
+  },
+  "right": {
+    "id": "4d766c4e52817887",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7daebdd51428b43",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "858b7d5086324397",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Scratchpad.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "777a95e686286183",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Scratchpad.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a7f90f803e4a418f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bf5a0799b32308c9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Scratchpad.md"
+              }
+            }
+          },
+          {
+            "id": "dfd244146161608c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "e3dd18ebc71a91b1",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "047ba273aaeb3bf8",
+  "lastOpenFiles": [
+    "3D-Modeling.md",
+    "Index.md",
+    "Scratchpad.md",
+    "Unity/Game-Development.md",
+    "3D-Modeling/3D-Modeling.md",
+    "3D-Modeling/blender/Resources/resources.md",
+    "General/CG-Fundimentals/Lessons/What is Geometry.md",
+    "General/CG-Fundimentals/Lessons/Coordniate Systems.md",
+    "General/CG-Fundimentals/Lessons/Coordinates and 3D modeling.md",
+    "General/CG-Fundimentals/Lessons/Continuous vs Discrete Mathematics.md"
+  ]
+}
